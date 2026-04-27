@@ -17,4 +17,4 @@ iplocal|151.243.93.68
 #ProxyServer
 Proxyserverip|151.243.93.68
 Proxyserverport|3565
-UseProxyServer|false
+UseProxyServer|true
