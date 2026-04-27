@@ -14,7 +14,7 @@ add_textbox|GGWP Proxy is Developed By ```9[`#@Breakeven```9]````
 
 iplocal|151.243.93.68
 
-
-Proxyserverip|ipserver
+#ProxyServer
+Proxyserverip|151.243.93.68
 Proxyserverport|3565
 UseProxyServer|false
